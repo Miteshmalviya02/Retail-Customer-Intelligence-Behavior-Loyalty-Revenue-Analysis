@@ -125,11 +125,20 @@ Express shipping customers spend **$60.48 on average vs $58.46 for Standard** �
 ### Q5 — Subscribers vs Non-Subscribers
 Non-subscribers (2,847 customers) generate **$170,436 in total revenue** vs subscribers at $62,645. However, average spend is nearly identical — $59.87 (non-subscribers) vs $59.49 (subscribers). The revenue gap is driven by volume, not behavior — the subscription program is not increasing individual spend.
 
+<img width="767" height="143" alt="image" src="https://github.com/user-attachments/assets/cceebcbb-c683-4fc4-826d-e8c146ecc06e" />
+
+
 ### Q6 — Discount Dependency by Product
 Hat (50%), Sneakers (49.66%), Coat (49.07%), Sweater (48.17%), and Pants (47.37%) have the highest discount rates. Nearly **1 in 2 purchases of these products requires a discount** — a clear signal of pricing issues or customer price sensitivity for these items.
 
+<img width="575" height="275" alt="image" src="https://github.com/user-attachments/assets/033b4f4c-ef10-4fa9-9c74-453a8fc40772" />
+
+
 ### Q7 — Customer Segmentation
 **80% of customers are Loyal** (3,116 with 10+ purchases). Only 701 are Returning and just 83 are New customers. Strong retention but dangerously low new customer acquisition — the business is running on its existing base with minimal growth pipeline.
+
+<img width="498" height="194" alt="image" src="https://github.com/user-attachments/assets/5afa55be-e003-49e6-91b4-6b92775ac4c6" />
+
 
 ### Q8 — Top Products by Category
 - **Accessories:** Jewelry (171), Sunglasses (161), Belt (161)
@@ -137,11 +146,19 @@ Hat (50%), Sneakers (49.66%), Coat (49.07%), Sweater (48.17%), and Pants (47.37%
 - **Footwear:** Sandals (160), Shoes (150), Sneakers (145)
 - **Outerwear:** Jacket (163), Coat (161)
 
+<img width="658" height="402" alt="image" src="https://github.com/user-attachments/assets/0b62d271-ff17-493f-9b75-b38f255e55f8" />
+
+
 ### Q9 — Repeat Buyers & Subscription Gap
 Of customers with more than 5 previous purchases, **2,518 are NOT subscribed** vs only 958 who are. The most loyal customers — who already trust and regularly buy from the brand — are not enrolled in the subscription program. This is the single biggest revenue gap in the entire dataset.
 
+<img width="472" height="213" alt="image" src="https://github.com/user-attachments/assets/c6bdbf78-5b0f-4419-a693-5390cee0e1ac" />
+
+
 ### Q10 — Revenue by Age Group
 Young Adults lead at **$62,143 (26.66%)**, followed by Middle Aged at $59,197 (25.40%), Adults at $55,978 (24.02%), and Senior at $55,763 (23.92%). All four groups contribute almost equally — no single age segment dominates, making age-based targeting less effective than behavioral targeting.
+
+<img width="643" height="202" alt="image" src="https://github.com/user-attachments/assets/4c1c106a-d27b-4884-b71c-1186f494dda9" />
 
 ---
 
