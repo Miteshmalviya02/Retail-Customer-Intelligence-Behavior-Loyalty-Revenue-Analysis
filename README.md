@@ -7,10 +7,11 @@
 
 1. [Project Overview](#project-overview)
 2. [Problem Statement](#problem-statement)
-3. [Methodology](#methodology)
-4. [Key Insights & Recommendations](#key-insights--recommendations)
-5. [Detailed Insights](#detailed-insights)
-6. [Recommendations](#recommendations)
+3. [Dashboard Preview](#Dashboard-Preview)
+4. [Methodology](#methodology)
+5. [Key Insights & Recommendations](#key-insights--recommendations)
+6. [Detailed Insights](#detailed-insights)
+7. [Recommendations](#recommendations)
 
 ---
 
@@ -36,6 +37,11 @@ The management team noticed changes in purchasing patterns and needed clarity on
 
 ---
 
+## Dashboard Preview
+
+<img width="1078" height="759" alt="image" src="https://github.com/user-attachments/assets/def6df00-0c67-43e0-829a-a1d4bd4d36c5" />
+
+---
 ## Methodology
 
 ### End-to-End Project Flow
