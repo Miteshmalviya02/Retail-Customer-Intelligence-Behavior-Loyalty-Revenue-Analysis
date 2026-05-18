@@ -141,8 +141,14 @@ Young Adults lead at **$62,143 (26.66%)**, followed by Middle Aged at $59,197 (2
 ### 1. Fix the Subscription Gap — Highest Priority
 3,116 loyal customers, only 1,053 subscribed. Convert even 20% of the 2,518 loyal non-subscribers and subscription revenue grows significantly. Offer exclusive member perks, early sale access, or a first-month free trial to drive sign-ups.
 
+<img width="611" height="189" alt="image" src="https://github.com/user-attachments/assets/fdb30604-131d-40f8-bc93-ea953255acc7" />
+
+
 ### 2. Stop Blanket Discounting
 Hat, Sneakers, and Coat are being discounted on nearly every other purchase. Identify which buyers genuinely need a discount to convert vs which would buy anyway — and stop discounting the latter. Protect margins without losing sales.
+
+<img width="433" height="519" alt="image" src="https://github.com/user-attachments/assets/53aa5bee-8a5c-4f21-8b1b-2f9078b381a9" />
+
 
 ### 3. Invest in Female-Targeted Marketing
 Females contribute 32% of revenue but are likely underrepresented in current marketing. A dedicated campaign targeting female shopping patterns (preferred categories, payment methods, seasonal trends) could meaningfully shift this ratio.
