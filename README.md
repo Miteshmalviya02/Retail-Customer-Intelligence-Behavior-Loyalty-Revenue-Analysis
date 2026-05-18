@@ -114,8 +114,7 @@ A notable customer segment used discounts but still spent **above the average pu
 ### Q3 — Product Review Ratings
 Shirt (3.62), Jeans (3.65), and Blouse (3.68) are the lowest rated products. Hoodie and Pants top ratings at 3.72. Overall ratings are tightly clustered — no product stands out strongly positive or negative, suggesting a consistent but average product experience across the board.
 
-<img width="605" height="333" alt="image" src="https://github.com/user-attachments/assets/7695d9a7-a7d5-4209-ad5c-24c7f676d50c" />
-
+<img width="469" height="333" alt="image" src="https://github.com/user-attachments/assets/cc9d47c8-8f51-4fd2-8d0b-1084ce25bb04" />
 
 ### Q4 — Shipping Type vs Spend
 Express shipping customers spend **$60.48 on average vs $58.46 for Standard** — a marginal $2 difference. Premium shipping users spend slightly more but the gap is not significant enough to use shipping type as a spend predictor.
