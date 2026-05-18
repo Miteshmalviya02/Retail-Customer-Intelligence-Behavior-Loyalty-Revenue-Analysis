@@ -67,10 +67,6 @@ Raw CSV Data → Python (Cleaning & Feature Engineering) → MySQL (SQL Analysis
 
 ## Key Insights & Recommendations
 
-> Quick summary of the most important findings. Scroll down for the full analysis.
-
----
-
 ---
 
 ### Top Findings
